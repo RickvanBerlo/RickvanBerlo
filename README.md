@@ -1,4 +1,19 @@
 <h1 align="center">Hi There, My name is Rick 👋</h1>
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!
+            <br><br>
+        </p>
+    </td>
+</table>
+
 <div style="display: flex; height: 120px">
     <div style="flex: 1; border: 1px solid gray">
         &nbsp;
