@@ -24,7 +24,7 @@
 </div>
 
 <br/>
-<center><h2>General</h2><center>
+<h2 align="center">General</h2>
 
 👴 I'm 24 years young.  
 📚 I’m currently learning everything 🤣  
@@ -35,8 +35,6 @@
 <br/>
 
 
-<center>
-    <a href="https://rickvanberlo.nl/" title="Go to personal website">
-        <img src="https://img.shields.io/website?label=personal_page&style=for-the-badge&url=https://rickvanberlo.nl/" width="200"/>
-    </a>
-<center>
+<a align="center" href="https://rickvanberlo.nl/" title="Go to personal website">
+    <img src="https://img.shields.io/website?label=personal_page&style=for-the-badge&url=https://rickvanberlo.nl/" width="200"/>
+</a>
