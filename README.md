@@ -17,7 +17,6 @@
     </td>
 </table>
 
-<br/>
 
 ## 🔭 General
 
