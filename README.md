@@ -26,10 +26,10 @@
 <br/>
 <h2 align="center">General</h2>
 
-👴 I'm 24 years young.  
-📚 I’m currently learning everything 🤣  
-🥅 2020 Goals: Learning more about different java frameworks.  
-⚡ Fun fact: I love to play board games with my friends  
+<p align="center">👴 I'm 24 years young.</p>
+<p align="center">📚 I’m currently learning everything 🤣</p>
+<p align="center">🥅 2020 Goals: Learning more about different java frameworks.</p>
+<p align="center">⚡ Fun fact: I love to play board games with my friends</p>
 
 <br/>
 <br/>
