@@ -31,8 +31,6 @@
 - 🥅 2020 Goals: Learning more about different java frameworks.
 - ⚡ Fun fact: I love to play board games with my friends
 
-<br/>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
