@@ -1,4 +1,4 @@
-<center><h1>Hi There, My name is Rick 👋</h1></center>
+<h1 align="center">Hi There, My name is Rick 👋</h1>
 <div style="display: flex; height: 120px">
     <div style="flex: 1; border: 1px solid gray">
         &nbsp;
