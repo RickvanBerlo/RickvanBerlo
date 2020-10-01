@@ -35,6 +35,8 @@
 <br/>
 
 
-<a align="center" href="https://rickvanberlo.nl/" title="Go to personal website">
-    <img src="https://img.shields.io/website?label=personal_page&style=for-the-badge&url=https://rickvanberlo.nl/" width="200"/>
-</a>
+<div align="center">
+    <a href="https://rickvanberlo.nl/" title="Go to personal website">
+        <img src="https://img.shields.io/website?label=personal_page&style=for-the-badge&url=https://rickvanberlo.nl/" width="200"/>
+    </a>
+</div>
