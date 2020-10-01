@@ -32,7 +32,6 @@
 - ⚡ Fun fact: I love to play board games with my friends
 
 <br/>
-<br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
