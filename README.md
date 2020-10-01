@@ -17,6 +17,12 @@
     </td>
 </table>
 
+<div align="center">
+    <a href="https://rickvanberlo.nl/" title="Go to personal website">
+        <img src="https://img.shields.io/website?label=personal_page&style=for-the-badge&url=https://rickvanberlo.nl/" width="200"/>
+    </a>
+</div>
+
 
 ## 🔭 General
 
@@ -42,8 +48,6 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
-<br/>
-<br/>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -53,12 +57,3 @@
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=24292e&text_color=24292e&icon_color=24292e&bg_color=#e1e4e8" alt="Martin's GitHub Stats" />
 </a>
-
-<br/>
-<br/>
-
-<div align="center">
-    <a href="https://rickvanberlo.nl/" title="Go to personal website">
-        <img src="https://img.shields.io/website?label=personal_page&style=for-the-badge&url=https://rickvanberlo.nl/" width="200"/>
-    </a>
-</div>
