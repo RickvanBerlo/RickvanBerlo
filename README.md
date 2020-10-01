@@ -18,12 +18,13 @@
 </table>
 
 <br/>
-<h2 align="center">General</h2>
 
-<p align="center">👴 I'm 24 years young.</p>
-<p align="center">📚 I’m currently learning everything 🤣</p>
-<p align="center">🥅 2020 Goals: Learning more about different java frameworks.</p>
-<p align="center">⚡ Fun fact: I love to play board games with my friends</p>
+## 🔭 General
+
+- 👴 I'm 24 years young.
+- 📚 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Learning more about different java frameworks.
+- ⚡ Fun fact: I love to play board games with my friends
 
 <br/>
 <br/>
@@ -45,8 +46,17 @@
 <br/>
 <br/>
 
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
+<br/>
+<br/>
 
 <div align="center">
     <a href="https://rickvanberlo.nl/" title="Go to personal website">
