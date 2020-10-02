@@ -49,8 +49,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/RickvanBerlo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickvanBerlo&hide=freemarker,html&title_color=24292e&text_color=#24292e&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickvanBerlo&hide=freemarker,html&title_color=24292e&text_color=#24292e&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RickvanBerlo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RickvanBerlo&show_icons=true&line_height=27&count_private=true&title_color=24292e&text_color=24292e&icon_color=24292e&bg_color=#e1e4e8" alt="Martin's GitHub Stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RickvanBerlo&show_icons=true&line_height=27&count_private=true&title_color=24292e&text_color=24292e&icon_color=24292e&bg_color=#e1e4e8" alt="Martin's GitHub Stats" />
 </a>
