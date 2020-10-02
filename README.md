@@ -26,9 +26,9 @@
 
 ## 🔭 General
 
-- 👴 I'm 24 years young.
+- 👴 I'm a young and enthusiastic developer that wants to learn new stuff.
 - 📚 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learning more about different java frameworks.
+- 🥅 Goals: Learning more about different java frameworks.
 - ⚡ Fun fact: I love to play board games with my friends
 
 ## 🔧 Technologies & Tools
@@ -44,7 +44,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-
 
 ## &#x1f4c8; GitHub Stats
 
